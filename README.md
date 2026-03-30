@@ -2,7 +2,7 @@
 
 **`Estudante de TI`**
 
-Me chamo **João Guilherme Soares de Araujo**, tenho 18 anos e sou natural de **Pernambuco**. Atualmente, curso **Sistemas de Informação na UFRPE** e tenho grande interesse em **desenvolvimento back-end**, com foco em **Python, Banco de Dados e Frameworks Web**. 🚀  
+Me chamo **João Guilherme Soares de Araujo**, tenho 19 anos e sou natural de **Pernambuco**. Atualmente, curso **Sistemas de Informação na UFRPE** e tenho grande interesse em **desenvolvimento back-end**, com foco em **TypeScript, PostgreSQL e NestJS**. 🚀  
 
 ---
 
