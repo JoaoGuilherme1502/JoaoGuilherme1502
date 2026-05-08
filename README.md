@@ -25,7 +25,7 @@ Me chamo **João Guilherme Soares de Araujo**, tenho 19 anos e sou natural de **
     <a href="mailto:jgsa1502@gmail.com">
         <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-soares-de-ara%C3%BAjo/" target="_blank">
+    <a href="www.linkedin.com/in/joão-guilherme-soares-de-araujo" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
